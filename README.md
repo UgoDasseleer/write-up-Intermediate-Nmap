@@ -22,7 +22,7 @@ Here is the output of this command
 
 We can already see a user and a password. (Have I already told u, it is an easy and short box).
 
-We can also see that the ssh is the only port opened port and X11 belongs to ssh(graphical)
+We can also see that the ssh is the only opened port and X11 belongs to ssh(graphical)
 
 ## Connect into the machine
 
